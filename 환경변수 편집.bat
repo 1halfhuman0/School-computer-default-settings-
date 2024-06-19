@@ -1,0 +1,1 @@
+setx PATH "C:\Users\User\AppData\Local\Programs\Python\Python38-32;C:\Users\User\AppData\Local\Programs\Python\Python38-32\Scripts;%PATH%" -m
